@@ -1,3 +1,13 @@
+> [!WARNING]
+> **Deprecated. This fork is no longer changed.**
+>
+> Bipsync's copy of AFNetworking now lives in
+> [Bipsync/bipsync-notes-ios-afnetworking](https://github.com/Bipsync/bipsync-notes-ios-afnetworking),
+> which builds it as a static-library `.xcframework` for the Bipsync iOS app. Make any future
+> changes there.
+>
+> This fork is kept as the recorded base for that repo (commit `c397616`). Please don't delete it.
+
 <p align="center" >
   <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
 </p>
